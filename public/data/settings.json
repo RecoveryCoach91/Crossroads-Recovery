@@ -4,7 +4,7 @@
     "relapseEndpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID",
     "fallbackEmail": "leadership@example.com"
   },
-  "meetingEmbedUrl": "https://bmlt.app",
+  "meetingEmbedUrl": "https://bluewater-na.org/meetings/",
   "crisis": [
     {
       "name": "ACCESS",
